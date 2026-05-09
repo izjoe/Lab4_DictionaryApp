@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFF8C8DC</color>
+    <color name="purple_500">#FFFFB6C1</color>
+    <color name="purple_700">#FFFFD1DC</color>
+    <color name="teal_200">#FFF0F5FF</color> <!-- Light pastel blue-ish pink -->
+    <color name="teal_700">#FFEFB8C8</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pastel_pink">#FFFFD1DC</color>
+</resources>
